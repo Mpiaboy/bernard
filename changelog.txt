@@ -1,9 +1,3 @@
-Version: 2.3
-  - Update the PHPMailer library to the latest version
-
-Version: 2.2
-  - Update the PHPMailer library to the latest version
-
 Version: 2.1
   - Update the PHPMailer library to the latest version
 
